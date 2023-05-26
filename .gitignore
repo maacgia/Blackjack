@@ -1,1 +1,11 @@
-cartas
+assets/cartas
+*.jpg
+.env
+.vscode
+.gitignore
+*temp.*
+*.json
+*borrar*
+*.db
+**__pycache__
+__pycache__
